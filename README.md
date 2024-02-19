@@ -32,7 +32,9 @@ informatiques obtenu avec une mention
 
 ### Hard Skills
 Développement: ![JAVA](https://img.shields.io/badge/java-orange?style=for-the-badge) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 Développement mobile: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -42,6 +44,9 @@ Développement web : ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?st
 Gestion de bases de données: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 Autres compétences: ![Compétences Mathématiques](https://img.shields.io/badge/Comp%C3%A9tences_Math%C3%A9matiques-1F4B99?style=for-the-badge) ![Installation et Gestion de Réseau](https://img.shields.io/badge/Installation_et_Gestion_de_R%C3%A9seau-00ADEF?style=for-the-badge)
+
+### Soft skills
+- 
 
 ## Projets réalisés
 
@@ -67,3 +72,15 @@ programmation orientée objets du Jeu du Verger dans lequel
 les enfants font la course contre un corbeau. Le résultat est 
 fonctionnel pour 4 joueurs et j’ai obtenu des retours positifs 
 de la part des commanditaires du projet.
+
+## Langues
+- ANGLAIS :
+Excellent en compréhension orale/écrite
+
+## Hobbies
+- Pratique du tir à l’arc :
+démontre ma discipline, ma persévérance 
+et ma capacité à créer du lien dans une association.
+- Écriture, dessin :
+nécessite de faire preuve de patience et de 
+pensée analytique.
