@@ -1,5 +1,7 @@
 # Portfolio
 
+Salut :smile:
+
 Bienvenue sur mon portfolio ! Je m'appelle Rémi et je suis un étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) Je suis sérieux. Je suis doué de réelles compétences en développement et en mathématiques, désireux de contribuer à votre entreprise en apportant mon expérience en informatique.
 
 ## Mes coordonnées
@@ -45,8 +47,7 @@ Gestion de bases de données: ![SQL](https://img.shields.io/badge/SQL-4479A1?sty
 
 Autres compétences: ![Compétences Mathématiques](https://img.shields.io/badge/Comp%C3%A9tences_Math%C3%A9matiques-1F4B99?style=for-the-badge) ![Installation et Gestion de Réseau](https://img.shields.io/badge/Installation_et_Gestion_de_R%C3%A9seau-00ADEF?style=for-the-badge)
 
-### Soft skills
-- 
+
 
 ## Projets réalisés
 
@@ -73,14 +74,19 @@ les enfants font la course contre un corbeau. Le résultat est
 fonctionnel pour 4 joueurs et j’ai obtenu des retours positifs 
 de la part des commanditaires du projet.
 
-## Langues
+## Langues 
 - ANGLAIS :
 Excellent en compréhension orale/écrite
 
-## Hobbies
+## Hobbies ✏️ 🏹
 - Pratique du tir à l’arc :
 démontre ma discipline, ma persévérance 
 et ma capacité à créer du lien dans une association.
 - Écriture, dessin :
 nécessite de faire preuve de patience et de 
 pensée analytique.
+
+## Mon github
+
+[![Mes stats Github](https://github-readme-stats.vercel.app/api?username=remiantoine&theme=tokyonight)](https://github.com/remiantoine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remiantoine)](https://github.com/remiantoine/github-readme-stats)
