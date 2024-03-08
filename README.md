@@ -7,11 +7,6 @@ Bienvenue sur mon portfolio ! Je m'appelle Rémi et je suis un étudiant en 2èm
 ![Nom de l'animation](giphy.gif)
 
 ## Mes coordonnées
-Adresse : 240 rue Armand Dutreix Limoges
-
-Téléphone : 06 65 92 16 79
-
-Email : remi.antoine@etu.unilim.fr
 
 Profil : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9mi-antoine-6438602a1/)
 
@@ -60,6 +55,7 @@ autre équipe pour une solution de lancer de rayons. J’ai créé
 des structures pour générer des objets, des sources de 
 lumière et comparer le résultat de nos tests au cahier des 
 charges.
+![raytracing](lessphères.png)
 
 - MISE EN PLACE D’UN RÉSEAU FICTIF SÉCURISE
 
