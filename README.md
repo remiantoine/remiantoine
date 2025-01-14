@@ -14,7 +14,9 @@ Profil : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
 
 - STAGE CREDIT AGRICOLE | Avril 2024 / Juin 2024
 
-Développement d'une application pour le service marketing avec le framework Laravel et VueJS.
+Développement d'une application d'aide à la décision pour le service marketing avec le framework Laravel et VueJS.
+
+![oad](accueilOAD.png)
 
 - BUT INFORMATIQUE | 2022/2025
 
