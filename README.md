@@ -2,7 +2,7 @@
 
 Salut :smile:
 
-Bienvenue sur mon portfolio ! Je m'appelle Rémi et je suis un étudiant en 2ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) Je suis sérieux. Je suis doué de réelles compétences en développement et en mathématiques, désireux de contribuer à votre entreprise en apportant mon expérience en informatique.
+Bienvenue sur mon portfolio ! Je m'appelle Rémi et je suis un étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) Je suis sérieux. Je suis doué de réelles compétences en développement et en mathématiques, désireux de contribuer à votre entreprise en apportant mon expérience en informatique.
 
 ![Nom de l'animation](giphy.gif)
 
@@ -12,7 +12,11 @@ Profil : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
 
 ## Parcours
 
-- BUT INFORMATIQUE | 2022/2024
+- STAGE CREDIT AGRICOLE | Avril 2024 / Juin 2024
+
+Développement d'une application pour le service marketing avec le framework Laravel et VueJS.
+
+- BUT INFORMATIQUE | 2022/2025
 
 Le BUT informatique forme à la conception, la réalisation et la 
 mise en œuvre de solutions informatiques répondant aux besoins 
