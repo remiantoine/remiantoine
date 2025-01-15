@@ -60,7 +60,7 @@ Autres compétences: ![Compétences Mathématiques](https://img.shields.io/badge
   <div style="flex: 1; padding-right: 10px;">
     <p>
       Le projet consiste à réaliser un RAG pour l'entreprise française LaPoste. En équipe, nous avons créé une application web autour d'un LLM. <br>
-      Les besoins client étaient :
+      Les besoins du client étaient :
       <ul>
         <li>Apprendre au modèle de langage une technologie.</li>
         <li>Accompagner un expert informatique dans la montée en compétence sur une technologie.</li>
