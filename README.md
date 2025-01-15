@@ -56,12 +56,24 @@ Autres compétences: ![Compétences Mathématiques](https://img.shields.io/badge
 
 - RAGAdmin
 
-Le projet consiste a réaliser un RAG pour l'entreprise française LaPoste. En équipe, nous avons creer une application web autour d'un LLM. 
-Les besoins client étaient :
-   Apprendre au modèle de langage  une technologie.
-   Accompagner un expert informatique dans la montée en compétence sur une technologie.
-   Exécuter des actions de résolution des incidents de niveau 1 en autonomie.
-   Proposer des actions de résolution d'incidents sur le MCO de niveau 2.
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 10px;">
+    <p>
+      Le projet consiste à réaliser un RAG pour l'entreprise française LaPoste. En équipe, nous avons créé une application web autour d'un LLM. <br>
+      Les besoins client étaient :
+      <ul>
+        <li>Apprendre au modèle de langage une technologie.</li>
+        <li>Accompagner un expert informatique dans la montée en compétence sur une technologie.</li>
+        <li>Exécuter des actions de résolution des incidents de niveau 1 en autonomie.</li>
+        <li>Proposer des actions de résolution d'incidents sur le MCO de niveau 2.</li>
+      </ul>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="rag.png" alt="rag" style="max-width: 100%;">
+  </div>
+</div>
+
 
 - LANCER DE RAYONS SUR C++
 
