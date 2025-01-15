@@ -4,7 +4,7 @@ Salut :smile:
 
 Bienvenue sur mon portfolio ! Je m'appelle Rémi et je suis un étudiant en 3ème année de [BUT Informatique](https://www.iut.unilim.fr/les-formations/but/informatique/) Je suis sérieux. Je suis doué de réelles compétences en développement et en mathématiques, désireux de contribuer à votre entreprise en apportant mon expérience en informatique.
 
-![Nom de l'animation](giphy.gif)
+<img src="giphy.gif" alt="Nom de l'animation" style="width: 100%; height: auto;">
 
 ## Mes coordonnées
 
