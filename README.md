@@ -54,6 +54,15 @@ Autres compétences: ![Compétences Mathématiques](https://img.shields.io/badge
 
 ## Projets réalisés
 
+- RAGAdmin
+
+Le projet consiste a réaliser un RAG pour l'entreprise française LaPoste. En équipe, nous avons creer une application web autour d'un LLM. 
+Les besoins client étaient :
+   Apprendre au modèle de langage  une technologie.
+   Accompagner un expert informatique dans la montée en compétence sur une technologie.
+   Exécuter des actions de résolution des incidents de niveau 1 en autonomie.
+   Proposer des actions de résolution d'incidents sur le MCO de niveau 2.
+
 - LANCER DE RAYONS SUR C++
 
 En équipe, nous avons analysé et compléter le code d’une 
